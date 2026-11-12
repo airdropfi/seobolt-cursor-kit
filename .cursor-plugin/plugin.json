@@ -1,0 +1,14 @@
+{
+  "name": "seobolt",
+  "description": "Audit a site for Google and AI search: health score, prioritized fix plan with code snippets, keyword and Search Console tools on your own SEOBolt account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SEOBolt",
+    "email": "support@seobolt.app"
+  },
+  "homepage": "https://seobolt.app/mcp-seo",
+  "repository": "https://github.com/airdropfi/seobolt-cursor-kit",
+  "license": "MIT",
+  "keywords": ["seo", "seobolt", "seo audit", "technical seo", "core web vitals", "mcp"],
+  "logo": "assets/logo.png"
+}

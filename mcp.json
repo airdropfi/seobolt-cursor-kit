@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "seobolt": {
+      "url": "https://seobolt.app/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:SEOBOLT_API_KEY}"
+      }
+    }
+  }
+}
